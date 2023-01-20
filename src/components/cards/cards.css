@@ -1,0 +1,21 @@
+.cards {
+    width: 500px;
+    max-width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+   
+}
+
+.card {
+    background-color: antiquewhite;
+    border-radius: 6px;
+}
+
+img {
+    width: 100;
+    height: 100px;
+}
+
